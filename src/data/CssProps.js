@@ -9,6 +9,9 @@ const props = {
     'bdStyle':'border-style:',
     'bdW':'border-width:',
     'bdColor':'border-color:',
+    'mg':'margin:',
+    'pd':'padding:',
+    'fontSz':'font-size:',
 }
 
 export default props
